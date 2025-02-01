@@ -1,4 +1,4 @@
-# RPC 12 
+
 ## EV Market Analysis for AltliQ Motors :
 ### Link to [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTY1NDJmNjMtMTBkOC00ZmE3LWEyMDAtOGY2ZGFmNmZmZDk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 ## Maker Sales & Revenue : 
