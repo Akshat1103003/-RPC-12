@@ -41,11 +41,52 @@
   - **2W Sales**: **932,000 units**
   - **4W Sales**: **84,000 units**
 
+------ 
+# ⚡ EV Infrastructure vs. Sales – Performance Insights
+
+This repository presents a concise analysis of how Electric Vehicle (EV) infrastructure impacts EV adoption across various states in India. The study draws correlations between public charging station availability and EV sales metrics, offering clear action points for stakeholders and policymakers.
+
+### 🔗 Infra Drives Adoption
+- States with robust public charging infra (e.g., **Karnataka**, **Delhi**) show **higher EV Penetration Rates (PR%)**.
+- 📈 More chargers → Greater buyer confidence → Higher EV sales.
+
+
+### 🏆 Top Performing States
+
+| State        | PR%    | Key Insight                                  |
+|--------------|--------|-----------------------------------------------|
+| Karnataka    | 7.8%   | 💥 Highest PR% with moderate infra strength   |
+| Maharashtra  | 5.7%   | 🚗 Highest total EV sales (3.96L)             |
+| Delhi        | 6.7%   | ⚡ Excellent infra & PR% alignment             |
+
+
+
+### 🚧 Infrastructure Gaps
+
+- **Uttar Pradesh**, **Haryana**, **Madhya Pradesh**  
+  🔋 High EV sales but poor PR% → Need **urgent infra scaling**.
+
+
+### ⚠️ Underperforming States
+
+- **Tamil Nadu**, **Rajasthan**, **Andhra Pradesh**  
+  🧭 Decent infra but **low usage/PR%** → Improve **awareness** & user adoption.
+
+### 🎯 Actionable Impact
+
+- 🔄 **Replicate Delhi/Karnataka** models in lagging states.
+- 📍 Prioritize **infra deployment** in high-sales, low-PR% zones.
+- 📢 Launch campaigns to boost infra visibility & public trust.
+- 🛠 Use data insights to guide **policy**, **investment**, and **strategy**.
+
+---
+
 ### Ideal States to start a EV Manufacturing Plant in India :
 **Gujarat** provides ample opportunities in the form of readily available industrial land with all infrastructure facilities for investment in setting up of EV charging stations :
 - **Dholera SIR** (Strategic Industrial Region)
 - **GIDC (Sanand –II & III)**
 - **Mundra SEZ** (Special Economic Zone) .
+
 ---
 ## Top Recommendations for AtliQ Motors :
 - As the Indian Ev landscape consist of 92.6 % of Two Wheelers sales .
